@@ -41,7 +41,12 @@
             "title": "FAQ",
             "url": "/faq",
             "style": "link"
+        },
+        {
+            "title": "Podcast",
+            "url": "https://ashinnshow-92fe7.netlify.app/",
+            "style": "link"
         }
     ],
-    "title": "Planty"
+    "title": "A Shinn Show Store"
 }
